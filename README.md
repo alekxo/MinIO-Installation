@@ -4,4 +4,4 @@ MinIO is an open-source object storage server that acts as an alternative to Ama
 
 The service stores unstructured data such as photos, videos, log files, backups, and container/VM images, and can even provide a single object storage server that pools multiple drives spread across many servers.
 
-I will be installing MinIO on Ubuntu Server 20.04.5 LTS through Ansible and set up an SSL/TLS certificate for secure data transmission.
+I will be installing single instance MinIO server on Ubuntu Server 20.04.5 LTS through Ansible and set up an SSL/TLS certificate for secure data transmission.
